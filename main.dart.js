@@ -34222,7 +34222,7 @@ k=t.G
 j=k.a(J.bA(k.a(B.c5.fN(b)),"data"))
 i=A.cU(J.bA(j,"message"))
 if(i!=null&&i.length!==0){h=A.awi(j,"assertiveness")
-q.Qg(i,B.Gn[h==null?0:h])}g.eV(c,B.c5.c6(!0))
+q.Qg(i,B.Gm[h==null?0:h])}g.eV(c,B.c5.c6(!0))
 return
 case"flutter/navigation":g.d.h(0,0).G3(b).bi(new A.a41(g,c),t.P)
 g.ry="/"
@@ -35670,7 +35670,7 @@ a4V(){var s=this,r=s.Q
 if(r==null){r=s.Q=new A.wP(s.r)
 r.d=new A.a48(s)}return r},
 UA(a){var s,r=this
-if(B.b.v(B.Gp,a.type)){s=r.a4V()
+if(B.b.v(B.Go,a.type)){s=r.a4V()
 s.toString
 s.sF9(J.f1(r.r.$0(),B.aT))
 if(r.z!==B.nI){r.z=B.nI
@@ -65837,7 +65837,7 @@ case 1:return A.J(q,r)}})
 return A.K($async$Ct,r)},
 a4G(a,b){var s,r,q,p
 if(a===b)return B.Hc
-if(a===B.f3&&b===B.f1)return B.Gm
+if(a===B.f3&&b===B.f1)return B.Gl
 s=A.a([],t.QP)
 if(a==null)s.push(b)
 else{r=B.b.f8(B.fT,a)
@@ -68969,7 +68969,7 @@ s.a.push(r.ga9r())
 r.e=p}return p},
 gMB(){var s=this.f
 if(s===$){s!==$&&A.aV()
-s=this.f=new A.alq(1,B.Gk,B.bO)}return s},
+s=this.f=new A.alq(1,B.Gj,B.bO)}return s},
 ghB(){var s=this.y
 s=s==null?null:$.cc().d===s
 return s===!0},
@@ -84944,7 +84944,7 @@ a_(){return new A.Sp(A.a([],t.cM),A.a([],t.WP),A.z(t.S,t.i),null,null,B.l)}}
 A.Sp.prototype={
 ai(){var s,r,q,p,o,n,m,l,k,j=this,i=null
 j.aq()
-for(s=t.R,r=s.i("a4<a9.T>"),q=j.d,p=j.e,o=t.P,n=0;n<20;++n){m=A.b6(i,B.dU,i,i,j)
+for(s=t.R,r=s.i("a4<a9.T>"),q=j.d,p=j.e,o=t.P,n=0;n<45;++n){m=A.b6(i,B.dU,i,i,j)
 l=new A.oM(m,B.c8,i)
 l.x0(m.gb6(m))
 m.b_()
@@ -84976,7 +84976,7 @@ o.c=m
 n=m}if(n.a>0){n.b=n.c=n.d=n.e=null
 n.a=0}p.q0()}this.a0e()},
 G(a){var s=A.aG(a,null,t.w).w.a,r=s.a,q=r/10
-return new A.bg(new A.a3(q,q,q,q),A.aAN(new A.O9(r>800?2:1,20,20,1.3333333333333333),new A.am1(this,(r-2*q-20)/2,s),20,new A.tX(null),!0),null)},
+return new A.bg(new A.a3(q,q,q,q),A.aAN(new A.O9(r>800?2:1,20,20,1.3333333333333333),new A.am1(this,(r-2*q-20)/2,s),45,new A.tX(null),!0),null)},
 vI(a,b){this.J(new A.alX(this,a,b))}}
 A.am2.prototype={
 $0(){var s=this.a
@@ -84996,7 +84996,7 @@ o.aw(0,n,n)
 o.dc(0,k,k)
 n=-r/2
 o.aw(0,n,n)
-return new A.bg(B.ni,A.d_(A.dB(A.cD(!1,!0,A.ar(m,A.bB(q,A.f2(A.aw(B.Gj[b],m,B.G,m,m),m,B.M,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,m,m,m,m,r),m,!0,B.m,m,B.m,B.m,m,m,m,m,m,m,new A.alY(l,b),new A.alZ(l,b),m,B.m,m,m),B.a4,new A.am_(l,b),new A.am0(l,b),m),s,m,!0),m)},
+return new A.bg(B.ni,A.d_(A.dB(A.cD(!1,!0,A.ar(m,A.bB(q,A.f2(A.aw(B.Gw[b],m,B.G,m,m),m,B.M,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,m,m,m,m,r),m,!0,B.m,m,B.m,B.m,m,m,m,m,m,m,new A.alY(l,b),new A.alZ(l,b),m,B.m,m,m),B.a4,new A.am_(l,b),new A.am0(l,b),m),s,m,!0),m)},
 $S:188}
 A.am_.prototype={
 $1(a){return this.a.vI(this.b,!0)},
@@ -91043,8 +91043,8 @@ B.G6=A.a(s([71,73,70,56,57,97]),t.Z)
 B.Fg=new A.lc(B.G6,"image/gif")
 B.FL=A.a(s([255,216,255]),t.Z)
 B.Fc=new A.lc(B.FL,"image/jpeg")
-B.Gs=A.a(s([82,73,70,70,null,null,null,null,87,69,66,80]),t.Z)
-B.Fe=new A.lc(B.Gs,"image/webp")
+B.Gr=A.a(s([82,73,70,70,null,null,null,null,87,69,66,80]),t.Z)
+B.Fe=new A.lc(B.Gr,"image/webp")
 B.Gh=A.a(s([66,77]),t.Z)
 B.Fd=new A.lc(B.Gh,"image/bmp")
 B.G7=A.a(s([B.Fb,B.Ff,B.Fg,B.Fc,B.Fe,B.Fd]),A.at("x<lc>"))
@@ -91054,7 +91054,6 @@ B.BK=new A.rv(0,"auto")
 B.BL=new A.rv(1,"full")
 B.BM=new A.rv(2,"chromium")
 B.Gi=A.a(s([B.BK,B.BL,B.BM]),A.at("x<rv>"))
-B.Gj=A.a(s([u.M,u.o,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_08.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_09.jpg",u.l,u.G,u.D,u.I,u.d,u.N,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/R1.png",u.F,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/W1.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/W2.png",u.h,u.Q,u.u,u.C,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_04.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_05.png"]),t.ee)
 B.nX=A.a(s([B.jp,B.fK,B.e7,B.fN,B.fR,B.db,B.nV,B.jA,B.be,B.fS,B.cC,B.e4,B.e5,B.fL,B.e6,B.jq,B.cg,B.jr,B.js,B.nT,B.bd,B.fM,B.e8,B.e9,B.jt,B.ju,B.jv,B.jw,B.nU,B.jx,B.jy,B.fO,B.ea,B.eb,B.jz,B.fP,B.fQ]),A.at("x<bJ>"))
 B.VG=new A.ha(0,1)
 B.VM=new A.ha(0.5,1)
@@ -91067,12 +91066,13 @@ B.VK=new A.ha(0.8875,0.25)
 B.VI=new A.ha(0.925,0.5)
 B.VJ=new A.ha(0.9625,0.75)
 B.VH=new A.ha(1,1)
-B.Gk=A.a(s([B.VG,B.VM,B.VN,B.VL,B.VP,B.VQ,B.VO,B.VK,B.VI,B.VJ,B.VH]),A.at("x<ha>"))
+B.Gj=A.a(s([B.VG,B.VM,B.VN,B.VL,B.VP,B.VQ,B.VO,B.VK,B.VI,B.VJ,B.VH]),A.at("x<ha>"))
 B.fT=A.a(s([B.f1,B.f2,B.lD,B.lE,B.f3]),t.QP)
-B.Gm=A.a(s([B.f1]),t.QP)
-B.Gn=A.a(s([B.ia,B.ib]),A.at("x<x7>"))
+B.Gl=A.a(s([B.f1]),t.QP)
+B.Gm=A.a(s([B.ia,B.ib]),A.at("x<x7>"))
 B.nY=A.a(s([0,4,12,1,5,13,3,7,15]),t.t)
-B.Gp=A.a(s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","keyup","keydown"]),t.s)
+B.Go=A.a(s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","keyup","keydown"]),t.s)
+B.Gw=A.a(s(["https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img1.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img2.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img3.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img4.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img5.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img6.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img7.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img8.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img9.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img10.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img11.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img12.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img13.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img14.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img15.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img16.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img17.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img18.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img19.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img20.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img21.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img22.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img23.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img24.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img25.jpg",u.M,u.o,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_08.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_09.jpg",u.l,u.G,u.D,u.I,u.d,u.N,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/R1.png",u.F,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/W1.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/W2.png",u.h,u.Q,u.u,u.C,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_04.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_05.png"]),t.ee)
 B.Gx=A.a(s([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298]),t.t)
 B.Gz=A.a(s(["https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/teams/oneperson.jpeg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/teams/twoperson.jpeg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/teams/thirdperson.jpeg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/teams/fourperson.jpeg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/teams/fiveperson.jpeg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/teams/sixperson.jpeg"]),t.ee)
 B.OR=new A.kh("Homeclues is a leading Home Interior company in Delhi NCR",null,null,B.a4,null)
@@ -91107,12 +91107,12 @@ B.GZ=A.a(s([0,0,32722,12287,65535,34815,65534,18431]),t.t)
 B.o2=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
 B.o3=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
 B.HC=A.a(s([u.M,u.t]),t.s)
-B.Gq=A.a(s([u.u,"https://www.instagram.com/reel/CwRxoSah--k/?hl=en"]),t.s)
+B.Gp=A.a(s([u.u,"https://www.instagram.com/reel/CwRxoSah--k/?hl=en"]),t.s)
 B.Ht=A.a(s([u.h,"https://www.instagram.com/reel/Cv_2oYcRTnf/?hl=en"]),t.s)
 B.Gy=A.a(s([u.F,"https://www.instagram.com/reel/Cuj4BwhMtlW/?hl=en"]),t.s)
 B.HD=A.a(s([u.o,u.t]),t.s)
 B.HE=A.a(s([u.Q,u.t]),t.s)
-B.o4=A.a(s([B.HC,B.Gq,B.Ht,B.Gy,B.HD,B.HE]),t.ee)
+B.o4=A.a(s([B.HC,B.Gp,B.Ht,B.Gy,B.HD,B.HE]),t.ee)
 B.H0=A.a(s(["CEO","Project Manager","Marketing","Sales","Chief Designer","Chief Assistant"]),t.ee)
 B.ah=new A.eK(0,"icon")
 B.aE=new A.eK(1,"input")
@@ -91210,11 +91210,11 @@ B.eV=new A.du(16,"ZWJ")
 B.l6=new A.du(17,"WSegSpace")
 B.zO=new A.du(18,"Unknown")
 B.HI=A.a(s([B.l3,B.dx,B.aV,B.hT,B.hU,B.l7,B.eW,B.V8,B.eX,B.eY,B.bA,B.l4,B.l5,B.eU,B.c1,B.hS,B.eV,B.l6,B.zO]),A.at("x<du>"))
-B.Gl=A.a(s(["I was genuinely impressed with Homeclues. Their team managed to transform my home within budget and on schedule. Would highly recommend!","Amit Verma","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/review_images/review1.jpg",null,"https://www.youtube.com/@homeclues",5]),t.ef)
+B.Gk=A.a(s(["I was genuinely impressed with Homeclues. Their team managed to transform my home within budget and on schedule. Would highly recommend!","Amit Verma","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/review_images/review1.jpg",null,"https://www.youtube.com/@homeclues",5]),t.ef)
 B.H5=A.a(s(["Stunning work by Homeclues! They made my dream home a reality without breaking the bank. Will definitely collaborate again.","Priyanka Sharma","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/review_images/review2.jpg",null,"https://www.youtube.com/@homeclues",4]),t.ef)
-B.Go=A.a(s(["Homeclues delivered a remarkable experience. Quality work, timely completion, and cost-effective. Thumbs up!","Rahul Mehta","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/review_images/review3.jpg",null,u.i,5]),t.ef)
+B.Gn=A.a(s(["Homeclues delivered a remarkable experience. Quality work, timely completion, and cost-effective. Thumbs up!","Rahul Mehta","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/review_images/review3.jpg",null,u.i,5]),t.ef)
 B.GE=A.a(s(["Top-notch service from Homeclues! Our place looks fantastic, and they finished right on time. They mentioned hoping to work with us again in the future, and the feeling is mutual!","Vikas Bhatia","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/review_images/review4.jpg",null,u.i,5]),t.ef)
-B.ob=A.a(s([B.Gl,B.H5,B.Go,B.GE]),t.ee)
+B.ob=A.a(s([B.Gk,B.H5,B.Gn,B.GE]),t.ee)
 B.ln=new A.F1(0,"named")
 B.Wp=new A.F1(1,"anonymous")
 B.HJ=A.a(s([B.ln,B.Wp]),A.at("x<F1>"))
@@ -92044,24 +92044,24 @@ B.Gd=A.a(s([54,null,null,8589935158]),t.Z)
 B.Ge=A.a(s([55,null,null,8589935159]),t.Z)
 B.Gf=A.a(s([56,null,null,8589935160]),t.Z)
 B.Gg=A.a(s([57,null,null,8589935161]),t.Z)
-B.Gt=A.a(s([8589934852,8589934852,8589934853,null]),t.Z)
+B.Gs=A.a(s([8589934852,8589934852,8589934853,null]),t.Z)
 B.FO=A.a(s([4294967555,null,4294967555,null]),t.Z)
 B.FP=A.a(s([4294968065,null,null,8589935154]),t.Z)
 B.FQ=A.a(s([4294968066,null,null,8589935156]),t.Z)
 B.FR=A.a(s([4294968067,null,null,8589935158]),t.Z)
 B.FS=A.a(s([4294968068,null,null,8589935160]),t.Z)
 B.FX=A.a(s([4294968321,null,null,8589935157]),t.Z)
-B.Gu=A.a(s([8589934848,8589934848,8589934849,null]),t.Z)
+B.Gt=A.a(s([8589934848,8589934848,8589934849,null]),t.Z)
 B.FN=A.a(s([4294967423,null,null,8589935150]),t.Z)
 B.FT=A.a(s([4294968069,null,null,8589935153]),t.Z)
 B.FM=A.a(s([4294967309,null,null,8589935117]),t.Z)
 B.FU=A.a(s([4294968070,null,null,8589935159]),t.Z)
 B.FY=A.a(s([4294968327,null,null,8589935152]),t.Z)
-B.Gv=A.a(s([8589934854,8589934854,8589934855,null]),t.Z)
+B.Gu=A.a(s([8589934854,8589934854,8589934855,null]),t.Z)
 B.FV=A.a(s([4294968071,null,null,8589935155]),t.Z)
 B.FW=A.a(s([4294968072,null,null,8589935161]),t.Z)
-B.Gw=A.a(s([8589934850,8589934850,8589934851,null]),t.Z)
-B.ua=new A.cr(["*",B.FZ,"+",B.G_,"-",B.G0,".",B.G1,"/",B.G2,"0",B.G3,"1",B.G4,"2",B.G9,"3",B.Ga,"4",B.Gb,"5",B.Gc,"6",B.Gd,"7",B.Ge,"8",B.Gf,"9",B.Gg,"Alt",B.Gt,"AltGraph",B.FO,"ArrowDown",B.FP,"ArrowLeft",B.FQ,"ArrowRight",B.FR,"ArrowUp",B.FS,"Clear",B.FX,"Control",B.Gu,"Delete",B.FN,"End",B.FT,"Enter",B.FM,"Home",B.FU,"Insert",B.FY,"Meta",B.Gv,"PageDown",B.FV,"PageUp",B.FW,"Shift",B.Gw],A.at("cr<l,D<m?>>"))
+B.Gv=A.a(s([8589934850,8589934850,8589934851,null]),t.Z)
+B.ua=new A.cr(["*",B.FZ,"+",B.G_,"-",B.G0,".",B.G1,"/",B.G2,"0",B.G3,"1",B.G4,"2",B.G9,"3",B.Ga,"4",B.Gb,"5",B.Gc,"6",B.Gd,"7",B.Ge,"8",B.Gf,"9",B.Gg,"Alt",B.Gs,"AltGraph",B.FO,"ArrowDown",B.FP,"ArrowLeft",B.FQ,"ArrowRight",B.FR,"ArrowUp",B.FS,"Clear",B.FX,"Control",B.Gt,"Delete",B.FN,"End",B.FT,"Enter",B.FM,"Home",B.FU,"Insert",B.FY,"Meta",B.Gu,"PageDown",B.FV,"PageUp",B.FW,"Shift",B.Gv],A.at("cr<l,D<m?>>"))
 B.Hv=A.a(s([B.oi,null,null,B.tZ]),t.L)
 B.Hw=A.a(s([B.tL,null,null,B.u_]),t.L)
 B.Hx=A.a(s([B.tM,null,null,B.u0]),t.L)
@@ -93082,8 +93082,8 @@ B.Vl=new A.D5(0,"inside")
 B.Vm=new A.D5(1,"higher")
 B.Vn=new A.D5(2,"lower")
 B.Dc=new A.p(67108864)
-B.Gr=A.a(s([B.Dc,B.m]),t.O)
-B.Vo=new A.jj(B.Gr)
+B.Gq=A.a(s([B.Dc,B.m]),t.O)
+B.Vo=new A.jj(B.Gq)
 B.Vp=new A.jj(null)
 B.l8=new A.qP(0,"backButton")
 B.l9=new A.qP(1,"nextButton")
