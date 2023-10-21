@@ -77898,49 +77898,46 @@ Z(){var s=t.s
 return new A.Qm(A.a(["https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img12.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img13.jpg",u.N],s),A.a([u.L,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img15.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img16.jpg",u.o,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img19.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img24.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img2.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img3.jpg",u.M,u.H,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_08.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_09.jpg",u.h,u.Q,u.u,u.C,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_04.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/01_05.png"],s),A.a(["https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img22.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img23.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img21.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img8.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img9.jpg",u.Y,"https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img20.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img7.jpg",u.l,u.G,u.D,u.I,u.d],s),A.a(["https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_folder_2/img5.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/R1.png"],s),A.a(["https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_folder_2/img1.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_folder_2/img2.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_folder_2/img3.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_folder_2/img4.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_folder_2/img6.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_folder_2/img7.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_folder_2/img8.png"],s),A.a(["https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img11.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img18.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img25.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img1.jpg",u.K],s),A.a(["https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img4.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img5.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/new_uploaded_images/img6.jpg","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/W1.png","https://interior-designer-bucket.s3.ap-south-1.amazonaws.com/assets/gallery/W2.png"],s),A.z(t.S,t.i),B.m)}}
 A.Qm.prototype={
 cq(a,b){this.I(new A.aiw(this,a,b))},
-G(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.aF(a,k,t.w).w.a,i=j.a,h=i/10,g=(i-2*h-20)/2,f=t.l7,e=A.jC(18,new A.aiZ(l,g,j),f)
-i=i>800
-s=i?0.4:0.5
+G(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.aF(a,k,t.w).w.a,i=j.a,h=i/10,g=i>800,f=g?0.5:0.8,e=(i-2*h-20)*f
+f=t.l7
+i=A.jC(18,new A.aiZ(l,e,j),f)
+s=g?0.4:0.7
 r=t.p
-s=A.a7(A.a([B.Rn,B.aQ,A.jg(k,e,k,A.hI(!0,1.7777777777777777,!1,!0,!1,i?250:150,0,k,s)),B.aR],r),B.a6,B.n,B.f)
-e=A.jC(13,new A.aj_(l,g,j),f)
-q=i?0.4:0.5
-e=A.a7(A.a([B.Rw,B.aQ,A.jg(k,e,k,A.hI(!0,1.7777777777777777,!1,!0,!1,i?250:150,0,k,q)),B.aR],r),B.a6,B.n,B.f)
-q=A.jC(7,new A.aj0(l,g,j),f)
-p=i?0.4:0.5
-q=A.a7(A.a([B.RA,B.aQ,A.jg(k,q,k,A.hI(!0,1.7777777777777777,!1,!0,!1,i?500:200,0,k,p)),B.aR],r),B.a6,B.n,B.f)
-p=A.jC(3,new A.aj1(l,g,j),f)
-o=i?0.4:0.5
-p=A.a7(A.a([B.Ru,B.aQ,A.jg(k,p,k,A.hI(!0,1.7777777777777777,!1,!0,!1,i?250:150,0,k,o)),B.aR],r),B.a6,B.n,B.f)
-o=A.jC(5,new A.aj2(l,g,j),f)
-n=i?0.4:0.5
-o=A.a7(A.a([B.Rk,B.aQ,A.jg(k,o,k,A.hI(!0,1.7777777777777777,!1,!0,!1,i?250:150,0,k,n)),B.aR],r),B.a6,B.n,B.f)
-n=A.jC(5,new A.aj3(l,g,j),f)
-m=i?0.4:0.5
-n=A.a7(A.a([B.Rx,B.aQ,A.jg(k,n,k,A.hI(!0,1.7777777777777777,!1,!0,!1,i?250:150,0,k,m)),B.aR],r),B.a6,B.n,B.f)
-f=A.jC(2,new A.aj4(l,g,j),f)
-m=i?0.4:0.5
-return new A.bc(new A.a2(h,h,h,h),A.a7(A.a([s,e,q,p,o,n,A.a7(A.a([B.Rz,B.aQ,A.jg(k,f,k,A.hI(!0,1.7777777777777777,!1,!0,!1,i?250:150,0,k,m)),B.aR],r),B.a6,B.n,B.f)],r),B.o,B.n,B.f),k)}}
+s=A.a7(A.a([B.Rn,B.aQ,A.jg(k,i,k,A.hI(!0,1.7777777777777777,!1,!0,!1,250,0,k,s)),B.aR],r),B.a6,B.n,B.f)
+i=A.jC(13,new A.aj_(l,e,j),f)
+q=g?0.4:0.7
+i=A.a7(A.a([B.Rw,B.aQ,A.jg(k,i,k,A.hI(!0,1.7777777777777777,!1,!0,!1,250,0,k,q)),B.aR],r),B.a6,B.n,B.f)
+q=A.jC(7,new A.aj0(l,e,j),f)
+p=g?0.4:0.7
+q=A.a7(A.a([B.RA,B.aQ,A.jg(k,q,k,A.hI(!0,1.7777777777777777,!1,!0,!1,g?500:300,0,k,p)),B.aR],r),B.a6,B.n,B.f)
+p=A.jC(3,new A.aj1(l,e,j),f)
+o=g?0.4:0.7
+p=A.a7(A.a([B.Ru,B.aQ,A.jg(k,p,k,A.hI(!0,1.7777777777777777,!1,!0,!1,250,0,k,o)),B.aR],r),B.a6,B.n,B.f)
+o=A.jC(5,new A.aj2(l,e,j),f)
+n=g?0.4:0.7
+o=A.a7(A.a([B.Rk,B.aQ,A.jg(k,o,k,A.hI(!0,1.7777777777777777,!1,!0,!1,250,0,k,n)),B.aR],r),B.a6,B.n,B.f)
+n=A.jC(5,new A.aj3(l,e,j),f)
+m=g?0.4:0.7
+n=A.a7(A.a([B.Rx,B.aQ,A.jg(k,n,k,A.hI(!0,1.7777777777777777,!1,!0,!1,250,0,k,m)),B.aR],r),B.a6,B.n,B.f)
+f=A.jC(2,new A.aj4(l,e,j),f)
+g=g?0.4:0.7
+return new A.bc(new A.a2(h,h,h,h),A.a7(A.a([s,i,q,p,o,n,A.a7(A.a([B.Rz,B.aQ,A.jg(k,f,k,A.hI(!0,1.7777777777777777,!1,!0,!1,250,0,k,g)),B.aR],r),B.a6,B.n,B.f)],r),B.o,B.n,B.f),k)}}
 A.aiw.prototype={
 $0(){var s=this.c?1.1:1
 this.a.Q.m(0,this.b,s)},
 $S:0}
 A.aiZ.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=this.a,k=l.Q.h(0,a)
-if(k==null)k=1
+$1(a){var s,r,q,p,o=null,n=this.a,m=n.Q.h(0,a)
+if(m==null)m=1
 s=this.b
-r=this.c.a
-q=A.aE(r>1000?30:10)
-p=A.b0(0,0,3)
-o=new A.aW(new Float64Array(16))
-o.c1()
-r=r>800
-n=r?250:150
-o.aM(0,s/2,n/2)
-o.e2(0,k,k)
-r=r?250:150
-o.aM(0,-s/2,-r/2)
-return A.cF(A.bU(!1,!0,A.am(m,A.bk(q,A.dn(A.as(l.e[a],m,B.A,m,m),m,B.G,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,new A.a2(20,0,20,0),m,m,m,s),m,!0,B.i,m,B.i,B.i,m,m,m,m,m,m,new A.aiO(l,a),new A.aiP(l,a),m,B.i,m,m),B.K,new A.aiQ(l,a),new A.aiR(l,a),m)},
+r=A.aE(this.c.a>1000?30:10)
+q=A.b0(0,0,3)
+p=new A.aW(new Float64Array(16))
+p.c1()
+p.aM(0,s/2,125)
+p.e2(0,m,m)
+p.aM(0,-s/2,-125)
+return A.cF(A.bU(!1,!0,A.am(o,A.bk(r,A.dn(A.as(n.e[a],o,B.A,o,o),o,B.G,o,q,o,o,o,p,o)),B.k,o,o,o,o,o,o,new A.a2(20,0,20,0),o,o,o,s),o,!0,B.i,o,B.i,B.i,o,o,o,o,o,o,new A.aiO(n,a),new A.aiP(n,a),o,B.i,o,o),B.K,new A.aiQ(n,a),new A.aiR(n,a),o)},
 $S:39}
 A.aiQ.prototype={
 $1(a){return this.a.cq(this.b,!0)},
@@ -77955,21 +77952,17 @@ A.aiP.prototype={
 $1(a){return this.a.cq(this.b,!1)},
 $S:8}
 A.aj_.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=this.a,k=l.Q.h(0,a)
-if(k==null)k=1
+$1(a){var s,r,q,p,o=null,n=this.a,m=n.Q.h(0,a)
+if(m==null)m=1
 s=this.b
-r=this.c.a
-q=A.aE(r>1000?30:10)
-p=A.b0(0,0,3)
-o=new A.aW(new Float64Array(16))
-o.c1()
-r=r>800
-n=r?250:150
-o.aM(0,s/2,n/2)
-o.e2(0,k,k)
-r=r?250:150
-o.aM(0,-s/2,-r/2)
-return A.cF(A.bU(!1,!0,A.am(m,A.bk(q,A.dn(A.as(l.f[a],m,B.A,m,m),m,B.G,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,new A.a2(20,0,20,0),m,m,m,s),m,!0,B.i,m,B.i,B.i,m,m,m,m,m,m,new A.aiJ(l,a),new A.aiL(l,a),m,B.i,m,m),B.K,new A.aiM(l,a),new A.aiN(l,a),m)},
+r=A.aE(this.c.a>1000?30:10)
+q=A.b0(0,0,3)
+p=new A.aW(new Float64Array(16))
+p.c1()
+p.aM(0,s/2,125)
+p.e2(0,m,m)
+p.aM(0,-s/2,-125)
+return A.cF(A.bU(!1,!0,A.am(o,A.bk(r,A.dn(A.as(n.f[a],o,B.A,o,o),o,B.G,o,q,o,o,o,p,o)),B.k,o,o,o,o,o,o,new A.a2(20,0,20,0),o,o,o,s),o,!0,B.i,o,B.i,B.i,o,o,o,o,o,o,new A.aiJ(n,a),new A.aiL(n,a),o,B.i,o,o),B.K,new A.aiM(n,a),new A.aiN(n,a),o)},
 $S:39}
 A.aiM.prototype={
 $1(a){return this.a.cq(this.b,!0)},
@@ -77993,10 +77986,10 @@ p=A.b0(0,0,3)
 o=new A.aW(new Float64Array(16))
 o.c1()
 r=r>800
-n=r?250:150
+n=r?250:300
 o.aM(0,s/2,n/2)
 o.e2(0,k,k)
-r=r?250:150
+r=r?250:300
 o.aM(0,-s/2,-r/2)
 return A.cF(A.bU(!1,!0,A.am(m,A.bk(q,A.dn(A.as(l.w[a],m,B.A,m,m),m,B.G,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,new A.a2(20,0,20,0),m,m,m,s),m,!0,B.i,m,B.i,B.i,m,m,m,m,m,m,new A.aiF(l,a),new A.aiG(l,a),m,B.i,m,m),B.K,new A.aiH(l,a),new A.aiI(l,a),m)},
 $S:39}
@@ -78013,21 +78006,17 @@ A.aiG.prototype={
 $1(a){return this.a.cq(this.b,!1)},
 $S:8}
 A.aj1.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=this.a,k=l.Q.h(0,a)
-if(k==null)k=1
+$1(a){var s,r,q,p,o=null,n=this.a,m=n.Q.h(0,a)
+if(m==null)m=1
 s=this.b
-r=this.c.a
-q=A.aE(r>1000?30:10)
-p=A.b0(0,0,3)
-o=new A.aW(new Float64Array(16))
-o.c1()
-r=r>800
-n=r?250:150
-o.aM(0,s/2,n/2)
-o.e2(0,k,k)
-r=r?250:150
-o.aM(0,-s/2,-r/2)
-return A.cF(A.bU(!1,!0,A.am(m,A.bk(q,A.dn(A.as(l.d[a],m,B.A,m,m),m,B.G,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,new A.a2(20,0,20,0),m,m,m,s),m,!0,B.i,m,B.i,B.i,m,m,m,m,m,m,new A.aiB(l,a),new A.aiC(l,a),m,B.i,m,m),B.K,new A.aiD(l,a),new A.aiE(l,a),m)},
+r=A.aE(this.c.a>1000?30:10)
+q=A.b0(0,0,3)
+p=new A.aW(new Float64Array(16))
+p.c1()
+p.aM(0,s/2,125)
+p.e2(0,m,m)
+p.aM(0,-s/2,-125)
+return A.cF(A.bU(!1,!0,A.am(o,A.bk(r,A.dn(A.as(n.d[a],o,B.A,o,o),o,B.G,o,q,o,o,o,p,o)),B.k,o,o,o,o,o,o,new A.a2(20,0,20,0),o,o,o,s),o,!0,B.i,o,B.i,B.i,o,o,o,o,o,o,new A.aiB(n,a),new A.aiC(n,a),o,B.i,o,o),B.K,new A.aiD(n,a),new A.aiE(n,a),o)},
 $S:39}
 A.aiD.prototype={
 $1(a){return this.a.cq(this.b,!0)},
@@ -78042,21 +78031,17 @@ A.aiC.prototype={
 $1(a){return this.a.cq(this.b,!1)},
 $S:8}
 A.aj2.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=this.a,k=l.Q.h(0,a)
-if(k==null)k=1
+$1(a){var s,r,q,p,o=null,n=this.a,m=n.Q.h(0,a)
+if(m==null)m=1
 s=this.b
-r=this.c.a
-q=A.aE(r>1000?30:10)
-p=A.b0(0,0,3)
-o=new A.aW(new Float64Array(16))
-o.c1()
-r=r>800
-n=r?250:150
-o.aM(0,s/2,n/2)
-o.e2(0,k,k)
-r=r?250:150
-o.aM(0,-s/2,-r/2)
-return A.cF(A.bU(!1,!0,A.am(m,A.bk(q,A.dn(A.as(l.y[a],m,B.A,m,m),m,B.G,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,new A.a2(20,0,20,0),m,m,m,s),m,!0,B.i,m,B.i,B.i,m,m,m,m,m,m,new A.aiW(l,a),new A.aiX(l,a),m,B.i,m,m),B.K,new A.aiY(l,a),new A.aiA(l,a),m)},
+r=A.aE(this.c.a>1000?30:10)
+q=A.b0(0,0,3)
+p=new A.aW(new Float64Array(16))
+p.c1()
+p.aM(0,s/2,125)
+p.e2(0,m,m)
+p.aM(0,-s/2,-125)
+return A.cF(A.bU(!1,!0,A.am(o,A.bk(r,A.dn(A.as(n.y[a],o,B.A,o,o),o,B.G,o,q,o,o,o,p,o)),B.k,o,o,o,o,o,o,new A.a2(20,0,20,0),o,o,o,s),o,!0,B.i,o,B.i,B.i,o,o,o,o,o,o,new A.aiW(n,a),new A.aiX(n,a),o,B.i,o,o),B.K,new A.aiY(n,a),new A.aiA(n,a),o)},
 $S:39}
 A.aiY.prototype={
 $1(a){return this.a.cq(this.b,!0)},
@@ -78071,21 +78056,17 @@ A.aiX.prototype={
 $1(a){return this.a.cq(this.b,!1)},
 $S:8}
 A.aj3.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=this.a,k=l.Q.h(0,a)
-if(k==null)k=1
+$1(a){var s,r,q,p,o=null,n=this.a,m=n.Q.h(0,a)
+if(m==null)m=1
 s=this.b
-r=this.c.a
-q=A.aE(r>1000?30:10)
-p=A.b0(0,0,3)
-o=new A.aW(new Float64Array(16))
-o.c1()
-r=r>800
-n=r?250:150
-o.aM(0,s/2,n/2)
-o.e2(0,k,k)
-r=r?250:150
-o.aM(0,-s/2,-r/2)
-return A.cF(A.bU(!1,!0,A.am(m,A.bk(q,A.dn(A.as(l.x[a],m,B.A,m,m),m,B.G,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,new A.a2(20,0,20,0),m,m,m,s),m,!0,B.i,m,B.i,B.i,m,m,m,m,m,m,new A.aiS(l,a),new A.aiT(l,a),m,B.i,m,m),B.K,new A.aiU(l,a),new A.aiV(l,a),m)},
+r=A.aE(this.c.a>1000?30:10)
+q=A.b0(0,0,3)
+p=new A.aW(new Float64Array(16))
+p.c1()
+p.aM(0,s/2,125)
+p.e2(0,m,m)
+p.aM(0,-s/2,-125)
+return A.cF(A.bU(!1,!0,A.am(o,A.bk(r,A.dn(A.as(n.x[a],o,B.A,o,o),o,B.G,o,q,o,o,o,p,o)),B.k,o,o,o,o,o,o,new A.a2(20,0,20,0),o,o,o,s),o,!0,B.i,o,B.i,B.i,o,o,o,o,o,o,new A.aiS(n,a),new A.aiT(n,a),o,B.i,o,o),B.K,new A.aiU(n,a),new A.aiV(n,a),o)},
 $S:39}
 A.aiU.prototype={
 $1(a){return this.a.cq(this.b,!0)},
@@ -78100,21 +78081,17 @@ A.aiT.prototype={
 $1(a){return this.a.cq(this.b,!1)},
 $S:8}
 A.aj4.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=this.a,k=l.Q.h(0,a)
-if(k==null)k=1
+$1(a){var s,r,q,p,o=null,n=this.a,m=n.Q.h(0,a)
+if(m==null)m=1
 s=this.b
-r=this.c.a
-q=A.aE(r>1000?30:10)
-p=A.b0(0,0,3)
-o=new A.aW(new Float64Array(16))
-o.c1()
-r=r>800
-n=r?250:150
-o.aM(0,s/2,n/2)
-o.e2(0,k,k)
-r=r?250:150
-o.aM(0,-s/2,-r/2)
-return A.cF(A.bU(!1,!0,A.am(m,A.bk(q,A.dn(A.as(l.r[a],m,B.A,m,m),m,B.G,m,p,m,m,m,o,m)),B.k,m,m,m,m,m,m,new A.a2(20,0,20,0),m,m,m,s),m,!0,B.i,m,B.i,B.i,m,m,m,m,m,m,new A.aix(l,a),new A.aiy(l,a),m,B.i,m,m),B.K,new A.aiz(l,a),new A.aiK(l,a),m)},
+r=A.aE(this.c.a>1000?30:10)
+q=A.b0(0,0,3)
+p=new A.aW(new Float64Array(16))
+p.c1()
+p.aM(0,s/2,125)
+p.e2(0,m,m)
+p.aM(0,-s/2,-125)
+return A.cF(A.bU(!1,!0,A.am(o,A.bk(r,A.dn(A.as(n.r[a],o,B.A,o,o),o,B.G,o,q,o,o,o,p,o)),B.k,o,o,o,o,o,o,new A.a2(20,0,20,0),o,o,o,s),o,!0,B.i,o,B.i,B.i,o,o,o,o,o,o,new A.aix(n,a),new A.aiy(n,a),o,B.i,o,o),B.K,new A.aiz(n,a),new A.aiK(n,a),o)},
 $S:39}
 A.aiz.prototype={
 $1(a){return this.a.cq(this.b,!0)},
